@@ -42,7 +42,7 @@
   },
   "dependencies": {
     "cacache": "^15.0.3",
-    "esbuild": "^0.2.6",
+    "esbuild": "^0.11.11",
     "find-cache-dir": "^3.3.1",
     "jest-worker": "^26.0.0",
     "p-limit": "^2.3.0",
